@@ -1,4 +1,4 @@
-### Hello world, I'm Dima!
+## Hello world, I'm Dima!
 
 - 🔭 Currently working on FdF (fil de fer)
 - 🌱 Currently learning at 42 Heilbronn
