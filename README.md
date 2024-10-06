@@ -2,6 +2,7 @@
 - 🔭 Currently working on [CPP04](https://github.com/oliferovych/CPP-CPP04)
 - 🌱 Studying at 42 Heilbronn
 - ⚡ 42 Core Curriculum
+- ❤️‍🔥 Highlight: [Cub3d](https://github.com/oliferovych/cub3d)
 - ⚙️ Need some shell configs? [ShellConfigs](https://github.com/oliferovych/ShellConfigs)
 - 📜 Languages:
   
