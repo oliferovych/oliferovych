@@ -1,5 +1,5 @@
 # Hello world, I'm Dima!
-- 🔭 Currently working on [CPP](https://github.com/oliferovych/CPP-CPP07)
+- 🔭 Currently working on [CPP](https://github.com/oliferovych/CPP-CPP08)
 - 🌱 Studying at 42 Heilbronn
 - ⚡ 42 Core Curriculum
 - ❤️‍🔥 Highlight: [Cub3d](https://github.com/oliferovych/cub3d)
