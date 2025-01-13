@@ -1,5 +1,5 @@
 # Hello world, I'm Dima!
-- 🔭 Currently working on [webserv](https://github.com/oliferovych)
+- 🔭 Currently working on [webserv](https://github.com/oliferovych/webserv)
 - 🌱 Studying at 42 Heilbronn
 - ⚡ 42 Core Curriculum
 - ❤️‍🔥 Highlight: [Cub3d](https://github.com/oliferovych/cub3d)
