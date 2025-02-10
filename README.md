@@ -6,7 +6,7 @@
 - ⚙️ Need some shell configs? [ShellConfigs](https://github.com/oliferovych/ShellConfigs)
 - 📜 Languages:
   
-     [![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,bash)](https://skillicons.dev)
+     [![My Languages](https://skillicons.dev/icons?i=c,cpp,go,bash)](https://skillicons.dev)
 
 - 🔧 Tools:
     
