@@ -10,4 +10,4 @@
 
 - 🔧 Tools:
     
-     [![My Tools](https://skillicons.dev/icons?i=vscode,git,docker,github,notion)](https://skillicons.dev)
+     [![My Tools](https://skillicons.dev/icons?i=vscode,git,docker,github,notion,slack)](https://skillicons.dev)
