@@ -5,8 +5,8 @@
 
 ### ⚙️ Languages:
      
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,go,bash)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=c,cpp,go,javascript,typescript,html,bash)](https://skillicons.dev)
 
 ### 🛠️ Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,docker,github,notion,slack)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,docker,github,wordpress,notion,vscode)](https://skillicons.dev)
