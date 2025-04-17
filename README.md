@@ -1,5 +1,5 @@
 # Hello world, I'm Dima!
-- 🔭 Currently woprking on ft_transcendence
+- 🔭 Currently woprking on **ft_transcendence**
 - 🌱 Studying at 42 Heilbronn
 - ❤️‍🔥 Highlight: [Cub3d](https://github.com/oliferovych/cub3d)
 
