@@ -1,5 +1,5 @@
 # Hello world, I'm Dima!
-- 🔭 Currently working on **ft_transcendence**
+- 🔭 Currently working on [ft_transcendence](https://github.com/sergii-moroz/transcendence)
 - 🌱 Studying at 42 Heilbronn
 - ❤️‍🔥 Highlight: [Cub3d](https://github.com/oliferovych/cub3d)
 
