@@ -1,5 +1,5 @@
 # Hello world, I'm Dima!
-- 🔭 Currently working on [ft_transcendence](https://github.com/sergii-moroz/transcendence)
+- 🔭 Currently deepening my knowledge in Golang
 - 🌱 Studying at 42 Heilbronn
 - ❤️‍🔥 Highlight: [transcendence](https://github.com/oliferovych/transcendence)
 
