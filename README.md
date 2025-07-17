@@ -5,7 +5,7 @@
 
 ### ⚙️ Languages:
      
-[![My Languages](https://skillicons.dev/icons?i=go,cpp,typescript,javascript,c,shell)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=go,typescript,c++,javascript,c,shell)](https://skillicons.dev)
 
 ### 🛠️ Tools:
 
