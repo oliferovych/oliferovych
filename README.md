@@ -9,4 +9,4 @@
 
 ### 🛠️ Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=git,docker,aws,pulumi,notion,windows,ubuntu)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=aws,git,docker,notion,windows,ubuntu)](https://skillicons.dev)
