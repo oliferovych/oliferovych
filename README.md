@@ -1,5 +1,5 @@
 # Hello world, I'm Dima!
-- 🔭 Currently deepening my knowledge in Golang
+- 🔭 Currently deepening my knowledge in Golang & AWS
 - 🌱 Studying at 42 Heilbronn
 - ❤️‍🔥 Highlight: [transcendence](https://github.com/oliferovych/transcendence)
 
